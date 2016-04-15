@@ -1,0 +1,22 @@
+{
+  "name": "phong",
+  "version": "0.0.1",
+  "description": "General purpose code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pthieu/phong.git"
+  },
+  "keywords": [
+    "phong"
+  ],
+  "author": "Phong Thieu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pthieu/phong/issues"
+  },
+  "homepage": "https://github.com/pthieu/phong#readme"
+}
